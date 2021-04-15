@@ -1,0 +1,3 @@
+# DYNAMICAL SYSTEM
+
+dynamical system adalah konsep dalam matematik dimana aturan tetap menggambarkan ketergantungan waktu dalam suatu titik dalam ruang geometri.Contoh; panjang karakter adalah ketinggian dari puncak kepuncak model nya adalah 0(M).pada alam adalah keteraturan bentuk yang terlihat di dunia yang alami hal ini berulang dalam konteks yang berbeda dan kadang dapat di model secara matematiks.Contoh ; pohon,berkelok,gelombang,busa dan garis.Dalam matematik sistem dynamical adalah sebuah sistem atau dpat berfungsi medeskripsikan ketergantungan waktu dari sebuah titik dalam sebuah ruang geometri
